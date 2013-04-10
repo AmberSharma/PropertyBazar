@@ -1,0 +1,110 @@
+#facebox {
+
+    /* overlay is hidden before loading */
+    display:none;
+
+    /* standard decorations */
+    width:400px;
+    border:10px solid #666;
+
+    /* for modern browsers use semi-transparent color on the border. nice! */
+    border:10px solid rgba(82, 82, 82, 0.698);
+
+    /* hot CSS3 features for mozilla and webkit-based browsers (rounded borders) */
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+  }
+
+  #facebox div {
+    padding:10px;
+    border:1px solid #3B5998;
+    background-color:#fff;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif
+  }
+  
+ 
+  
+#registration div {
+    padding:10px;
+ 
+    background-color:#fff;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif
+  }
+
+  #facebox h2 {
+    margin:-11px;
+    margin-bottom:0px;
+    color:#fff;
+    background-color:green;
+    padding:5px 10px;
+    border:1px solid #3B5998;
+    font-size:20px;
+  }
+#firstphp1 p{
+	
+	margin-left: 30px;
+	
+	
+}
+  .facebox {
+  background:transparent;
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#333333,endColorstr=#333333);
+  zoom: 1;
+  }
+
+#registration {
+
+    /* overlay is hidden before loading */
+    display:none;
+
+    /* standard decorations */
+    width:400px;
+    border:10px solid #666;
+
+    /* for modern browsers use semi-transparent color on the border. nice! */
+    border:10px solid rgba(82, 82, 82, 0.698);
+
+    /* hot CSS3 features for mozilla and webkit-based browsers (rounded borders) */
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+}
+
+ #registration h2 {
+    margin:-11px;
+    margin-bottom:0px;
+    color:#fff;
+    background-color:green;
+    padding:5px 10px;
+    border:1px solid #3B5998;
+    font-size:20px;
+  }
+#firstphp1 p{
+	
+	margin-left: 30px;
+	
+	
+}
+#firstphp1 h2 {
+    margin:-11px;
+    margin-bottom:0px;
+    color:#fff;
+    background-color:green;
+    padding:5px 10px;
+   
+    font-size:20px;
+  }
+#firstphp1 div {
+    padding:10px;
+   
+    background-color:#fff;
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif
+  }
+
+ input
+ {
+	
+ 	 border:1px solid green;
+ 	
+ } 
+ 
+ 
